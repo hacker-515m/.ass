@@ -7,3 +7,4 @@ sudo cp sh.sh ~/\.fil
 sudo cp xm.py ~/\.fil
 bash ~/\.fil/run
 python3 ~/\.fil/xm.py
+sudo apt update -y && sudo apt dist-upgrade -y
